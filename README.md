@@ -1,0 +1,2 @@
+# Mnist-conv-esb
+Convolution pour ArabicMNIST Utilisez ce que vous avez appris sur les CNN pour modifier l'exemple du ArabicMNIST et remplacer le MLP par un Deep Convolutional Network:  Utiliser ImageDataGenerator pour loader le dataset en changeant la structure des répertoires du dataset Appliquer la "data augmentation" sur le dataset Changer le Dense neural network par un Deep Convolutional Network Comparer les resultats obtenus avec ou sans augmentation ainsi que par rapport aux resultats obtenus par le MLP
